@@ -1,0 +1,2 @@
+# hashfry
+hashing made simple
