@@ -1,0 +1,24 @@
+{
+  "name": "hashfry",
+  "version": "1.0.0",
+  "description": "hashing made simple",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finngreiter/hashfry.git"
+  },
+  "keywords": [
+    "hash",
+    "sha",
+    "md5",
+    "sha256",
+    "salt",
+    "secure"
+  ],
+  "author": "Finn Greiter",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/finngreiter/hashfry/issues"
+  },
+  "homepage": "https://github.com/finngreiter/hashfry#readme"
+}
